@@ -22,9 +22,7 @@ Biblioteca padrão (time)
 ANSI escape codes para colorização no terminal
 
 📌 Exemplo de Execução
-bash
-Copiar
-Editar
+
 +--------------------------------------------------------------------------------+
 |                                 Olá, boas-vindas!                              |
 +--------------------------------------------------------------------------------+
@@ -51,6 +49,7 @@ Vamos ver algumas boas práticas saudáveis para a sua classificação de IMC.
 | Exercícios: Pratique atividades físicas regularmente.                          |
 | Sono e bem-estar: Priorize boas noites de sono e controle o estresse.         |
 +--------------------------------------------------------------------------------+
+
 🧠 Desafios enfrentados
 Durante o desenvolvimento deste projeto, alguns pontos exigiram mais atenção:
 
@@ -63,6 +62,7 @@ Modularização: A lógica do código está toda centralizada em um único bloco
 Mensagens e Interação: Pensar nas mensagens para o usuário e como deixar a experiência acolhedora, didática e responsável (reforçando a importância de um profissional de saúde) foi um ponto importante do projeto.
 
 📈 Melhorias futuras
+
 Implementar tratamento de exceções para entradas inválidas.
 
 Refatorar o código em funções para maior organização.
